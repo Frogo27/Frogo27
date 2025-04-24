@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there Friend A👋
 ![frogo](https://count.getloli.com/@Frogo27?name=Frogo27&theme=3d-num&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
+
+![gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBlb3k2dnY2MHd3Zm4yOTlhdXhxNmFoczdtMmc2d3Z4aXNwYmdkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iQpG6QiZMZQ9a/giphy.gif)
+
 <!--
 **Frogo27/Frogo27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
