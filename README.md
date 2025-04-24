@@ -1,5 +1,5 @@
 ## Hi there 👋
-![:frogo]https://count.getloli.com/@Frogo27?name=Frogo27&theme=3d-num&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto
+![frogo](https://count.getloli.com/@Frogo27?name=Frogo27&theme=3d-num&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 <!--
 **Frogo27/Frogo27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
